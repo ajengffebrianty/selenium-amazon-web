@@ -1,0 +1,6 @@
+imi\function\amazon\getTelevisionPriceName.class
+imi\pageObject\amazon\ProductPO.class
+imi\function\amazon\Television.class
+imi\pageObject\amazon\LeftSideBarPO.class
+imi\pageObject\amazon\ProductListPO.class
+imi\pageObject\amazon\LoginPO.class

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestCheckoutRunner" duration-ms="256045" started-at="2022-06-19T13:26:46Z" finished-at="2022-06-19T13:31:02Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="256045" started-at="2022-06-19T13:26:46Z" finished-at="2022-06-19T13:31:02Z">
+      <class name="TestCheckoutRunner">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCheckoutRunner@7a5d012c]" name="setUp" is-config="true" duration-ms="24282" started-at="2022-06-19T13:26:46Z" finished-at="2022-06-19T13:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestCheckoutRunner@7a5d012c]" name="test1" duration-ms="230728" started-at="2022-06-19T13:27:10Z" finished-at="2022-06-19T13:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCheckoutRunner@7a5d012c]" name="tearDown" is-config="true" duration-ms="998" started-at="2022-06-19T13:31:01Z" finished-at="2022-06-19T13:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCheckoutRunner -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestCheckoutRunner -->
+</testng-results>
