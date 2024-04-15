@@ -4,6 +4,10 @@
 
 This repository contains my attempt to automate testing procedures for purchasing a TV product on Amazon's web store. The test script utilizes Selenium, a popular automation tool for web browsers, to simulate user interactions and verify functionalities.
 
+Please note that as of 1st January 2024, this project may no longer be applicable due to changes in Amazon's security measures. Amazon has implemented a CAPTCHA protector before accessing the website, which makes it challenging to automate the testing process effectively.
+
+However, this project can serve as a valuable reference for starting automation testing on other websites using Selenium.
+
 ## Test Flow
 
 1. **Launch:** Use Selenium based tools to launch the application.
