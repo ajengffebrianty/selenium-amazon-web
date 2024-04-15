@@ -18,10 +18,10 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class TestCheckoutRunner {
+public class AutomationTestCheckout {
     public WebDriver driver;
 
-    public TestCheckoutRunner() {
+    public AutomationTestCheckout() {
 
     }
 
@@ -40,7 +40,7 @@ public class TestCheckoutRunner {
     }
 
     @Test
-    public void test1() {
+    public void Test() {
         LeftSideBarPO sortProduct = PageFactory.initElements(driver, LeftSideBarPO.class);
         ProductListPO productList = PageFactory.initElements(driver, ProductListPO.class);
         ProductPO product = PageFactory.initElements(driver, ProductPO.class);
